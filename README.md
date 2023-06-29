@@ -1,2 +1,2 @@
 # NewsLetter-Signup
-NewsLetter-Signup Project
+NewsLetter-Signup Project using NodeJS
